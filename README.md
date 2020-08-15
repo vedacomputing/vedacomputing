@@ -47,7 +47,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
---
+---
 
 ### Latest Blog Posts
 
@@ -56,14 +56,14 @@
 - [Making a new Website](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
---
+---
 
 ### Latest Portfolio Posts
 
 <!-- PORTFOLIO:START -->
 <!-- PORTFOLIO:END -->
 
---
+---
 
 ### Latest Github Activity
 
