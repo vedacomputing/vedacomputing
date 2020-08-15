@@ -16,29 +16,33 @@
 
 ### Find me online
 
-[<img align="left" alt="vedacomputing.com" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" style="color:#FF4088"/>][website]
-[<img align="left" alt="VedaComputing | YouTube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VedaComputing | Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="VedaComputing | LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VedaComputing | Instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vedacomputing.com" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg"/>][website]
+[<img align="left" alt="VedaComputing | YouTube" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/youtube.svg" />][youtube]
+[<img align="left" alt="VedaComputing | Twitter" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="VedaComputing | LinkedIn" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VedaComputing | Instagram" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VedaComputing | Reddit" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/reddit.svg" />][reddit]
+[<img align="left" alt="VedaComputing | Discord" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/discord.svg" />][discord]
 
 <br />
 
 ### What I like to use
 
-- Visual Studio Code
-- HTML5 
-- SASS
-- JavaSCript
-- Angular
-- Node.Js
-- Nest.Js
-- Hugo
-- SQL
-- MongoDB
-- Github
-- Google Cloud Platform
-- Nrwl NX
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Node.Js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Nest.Js" height="32px" width="32px" src="https://camo.githubusercontent.com/c4fd9ae4b5274b73d4d51c42263409ce74572040/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" />
+<img align="left" alt="Hugo" width="32px" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg" />
+<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Google Cloud Platform" width="32px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="Google Cloud Platform" width="32px" src="https://github.com/nrwl/nx/blob/master/images/nx-logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ---
 
@@ -75,3 +79,5 @@
 [twitter]: https://twitter.com/vedacomputing
 [linkedin]: https://www.linkedin.com/in/vedacomputing
 [instagram]: https://instagram.com/vedacomputing
+[reddit]: 
+[discord]: 
