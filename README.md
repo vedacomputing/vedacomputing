@@ -16,7 +16,7 @@
 
 ### Find me online
 
-[<img align="left" alt="vedacomputing.com" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg"/>][website]
+[<img align="left" alt="vedacomputing.com" width="32px" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg"/>][website]
 [<img align="left" alt="VedaComputing | YouTube" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VedaComputing | Twitter" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VedaComputing | LinkedIn" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/linkedin.svg" />][linkedin]
@@ -43,6 +43,8 @@
 <img align="left" alt="Google Cloud Platform" width="32px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="Google Cloud Platform" width="32px" src="https://github.com/nrwl/nx/blob/master/images/nx-logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
 
 ---
 
@@ -79,5 +81,5 @@
 [twitter]: https://twitter.com/vedacomputing
 [linkedin]: https://www.linkedin.com/in/vedacomputing
 [instagram]: https://instagram.com/vedacomputing
-[reddit]: 
-[discord]: 
+[reddit]: https://vedacomputing.com
+[discord]: https://vedacomputing.com
