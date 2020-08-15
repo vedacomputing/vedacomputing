@@ -45,12 +45,23 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+--
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Project Activity
+--
+
+### Latest Portfolio Posts
+
+<!-- PORTFOLIO:START -->
+<!-- PORTFOLIO:END -->
+
+--
+
+### Latest Github Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
