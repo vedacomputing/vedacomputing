@@ -16,7 +16,7 @@
 
 ### Find me online
 
-[<img align="left" alt="vedacomputing.com" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vedacomputing.com" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" style="color:#FF4088"/>][website]
 [<img align="left" alt="VedaComputing | YouTube" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VedaComputing | Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VedaComputing | LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +40,7 @@
 - Google Cloud Platform
 - Nrwl NX
 
-<br />
+---
 
 ### Latest Youtube Videos
 
