@@ -61,6 +61,7 @@
 ### Latest Portfolio Posts
 
 <!-- PORTFOLIO:START -->
+- [Hugo Portfolio Website](https://vedacomputing-3d1f5.web.app/portfolio/hugo-portfolio-website/)
 <!-- PORTFOLIO:END -->
 
 ---
