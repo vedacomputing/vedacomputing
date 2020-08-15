@@ -7,10 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest portfolio posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://vedacomputing-3d1f5.web.app/blog/index.xml"
+          comment_tag_name: "PORTFOLIO"
+          feed_list: "https://vedacomputing-3d1f5.web.app/portfolio/index.xml"
