@@ -52,7 +52,6 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hugo Portfolio Website](https://vedacomputing-3d1f5.web.app/portfolio/hugo-portfolio-website/)
 - [Making a new Website](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
