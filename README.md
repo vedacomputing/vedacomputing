@@ -1,10 +1,10 @@
-# Hello, I'm Gustavo - aka [meisterveda][website]
+# Hello, I'm Gustavo - aka [VedaComputing][website]
 
 <br />
 
 ## WHOAMI
 
-- :mortar_board: I'm a Developer, Creator and Teacher.
+- :mortar_board: I'm a Developer, Administrator, Creator and Teacher.
 - :telescope: I look to always create and learn new things, to teach what I know and to make things better for all.
 - :unlock: I believe in Open Source.
 - :pencil2: I'm looking to collaborate with more creatores and build a good foundation.
