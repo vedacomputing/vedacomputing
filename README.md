@@ -12,7 +12,7 @@
 
 <br />
 
-[![meisterveda's github stats](https://github-stats-vedacomputing.herokuapp.com/api?username=vedacomputing)](https://github.com/vedacomputing/github-readme-stats)
+[![meisterveda's github stats](https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing)](https://github.com/vedacomputing/github-readme-stats)
 
 ### Find me online
 
