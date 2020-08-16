@@ -12,10 +12,6 @@
 
 <br />
 
-<img align="left" alt="VedaComputing's Github Stats" src="https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing&show_icons=true&hide_border=true" />
-
-<br />
-
 ### Find me online
 
 [<img align="left" alt="vedacomputing.com" width="32px" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg"/>][website]
@@ -77,6 +73,10 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+<img align="left" alt="VedaComputing's Github Stats" src="https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing&show_icons=true&hide_border=true" />
 
 [website]: https://vedacomputing.com
 [youtube]: https://www.youtube.com/channel/UC5PAzwDbbzsCbtcxPNpSrzw
