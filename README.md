@@ -14,6 +14,8 @@
 
 <img align="left" alt="VedaComputing's Github Stats" src="https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing&show_icons=true&hide_border=true" />
 
+<br />
+
 ### Find me online
 
 [<img align="left" alt="vedacomputing.com" width="32px" src="https://raw.githubusercontent.com/vedacomputing/vedacomputing/master/icons/hugo.svg"/>][website]
