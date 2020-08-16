@@ -12,7 +12,7 @@
 
 <br />
 
-[![meisterveda's github stats](https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing)](https://github.com/vedacomputing/github-readme-stats)
+<img align="left" alt="VedaComputing's Github Stats" src="https://github-readme-stats.vedacomputing.vercel.app/api?username=vedacomputing&show_icons=true&hide_border=true" />
 
 ### Find me online
 
@@ -81,5 +81,5 @@
 [twitter]: https://twitter.com/vedacomputing
 [linkedin]: https://www.linkedin.com/in/vedacomputing
 [instagram]: https://instagram.com/vedacomputing
-[reddit]: https://vedacomputing.com
-[discord]: https://vedacomputing.com
+[reddit]: https://www.reddit.com/user/vedacomputing
+[discord]: https://discord.gg/D3bXJ9a

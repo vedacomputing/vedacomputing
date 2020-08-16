@@ -46,8 +46,8 @@ googleAnalytics = ""
 [params]
 home = "Home"
 # Meta data
-description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
-author = "Sam Robbins"
+description = "The website of Gustavo Cabezal aka VedaComputing. Developer, Administrator, Creator and Teacher."
+author = "Gustavo Cabezal"
 
 
   [params.contact]
@@ -55,7 +55,7 @@ author = "Sam Robbins"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = ""
+  email = "vedacomputing@gmail.com"
   address = ""
   googlemaps = ""
 
