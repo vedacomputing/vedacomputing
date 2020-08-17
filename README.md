@@ -56,7 +56,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a new Website](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
+- [Blog Test](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -64,7 +64,7 @@
 ### Latest Portfolio Posts
 
 <!-- PORTFOLIO:START -->
-- [Hugo Portfolio Website](https://vedacomputing-3d1f5.web.app/portfolio/hugo-portfolio-website/)
+- [Portafolio Test](https://vedacomputing-3d1f5.web.app/portfolio/hugo-portfolio-website/)
 <!-- PORTFOLIO:END -->
 
 ---
