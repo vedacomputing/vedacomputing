@@ -1,8 +1,6 @@
 name: GitHub - Activity - Updater
 
 on:
-  schedule:
-    - cron: "0 0 5 31 2"
   workflow_dispatch:
 
 jobs:
