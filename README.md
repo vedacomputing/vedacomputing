@@ -56,7 +56,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Test](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
+- [Blog Test 1](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
+- [Blog Test 2](https://vedacomputing-3d1f5.web.app/blog/second-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 
