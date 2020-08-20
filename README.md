@@ -56,6 +56,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Website Launched](https://vedacomputing-3d1f5.web.app/blog/first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 
