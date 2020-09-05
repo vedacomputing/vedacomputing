@@ -2,6 +2,10 @@
 
 <br />
 
+[![trophy](https://github-profile-trophy-rho.vercel.app//?username=vedacomputing)](https://github.com/vedacomputing/github-profile-trophy)
+
+<br />
+
 ## WHOAMI
 
 - :mortar_board: I'm a Developer, Administrator, Creator and Teacher.
