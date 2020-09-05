@@ -2,7 +2,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy-rho.vercel.app//?username=vedacomputing)](https://github.com/vedacomputing/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedacomputing)](https://github.com/vedacomputing/github-profile-trophy)
 
 <br />
 
